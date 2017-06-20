@@ -138,7 +138,7 @@ exports.surgeriesviewIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_98)
+  * item (Item_95)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -156,7 +156,7 @@ exports.surgeriesviewIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_97)
+  * item (Item_94)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -173,7 +173,7 @@ exports.surgeriesviewIdPUT = function(args, res, next) {
 exports.surgeriesviewPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_96)
+  * item (Item_93)
   **/
     var examples = {};
   examples['application/json'] = "";

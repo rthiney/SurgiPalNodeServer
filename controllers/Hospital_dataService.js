@@ -96,7 +96,7 @@ exports.hospital_dataIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_71)
+  * item (Item_68)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -114,7 +114,7 @@ exports.hospital_dataIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_70)
+  * item (Item_67)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -131,7 +131,7 @@ exports.hospital_dataIdPUT = function(args, res, next) {
 exports.hospital_dataPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_69)
+  * item (Item_66)
   **/
     var examples = {};
   examples['application/json'] = "";

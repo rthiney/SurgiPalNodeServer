@@ -68,7 +68,7 @@ exports.doctor_vendorIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_47)
+  * item (Item_44)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.doctor_vendorIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_46)
+  * item (Item_43)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.doctor_vendorIdPUT = function(args, res, next) {
 exports.doctor_vendorPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_45)
+  * item (Item_42)
   **/
     var examples = {};
   examples['application/json'] = "";

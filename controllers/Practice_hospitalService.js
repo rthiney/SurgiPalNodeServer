@@ -68,7 +68,7 @@ exports.practice_hospitalIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_80)
+  * item (Item_77)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.practice_hospitalIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_79)
+  * item (Item_76)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.practice_hospitalIdPUT = function(args, res, next) {
 exports.practice_hospitalPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_78)
+  * item (Item_75)
   **/
     var examples = {};
   examples['application/json'] = "";

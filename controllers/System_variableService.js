@@ -72,7 +72,7 @@ exports.system_variableIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_107)
+  * item (Item_104)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -90,7 +90,7 @@ exports.system_variableIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_106)
+  * item (Item_103)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -107,7 +107,7 @@ exports.system_variableIdPUT = function(args, res, next) {
 exports.system_variablePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_105)
+  * item (Item_102)
   **/
     var examples = {};
   examples['application/json'] = "";

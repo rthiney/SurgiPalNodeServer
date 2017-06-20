@@ -90,7 +90,7 @@ exports.answers_boxIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_11)
+  * item (Item_8)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -108,7 +108,7 @@ exports.answers_boxIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_10)
+  * item (Item_7)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -125,7 +125,7 @@ exports.answers_boxIdPUT = function(args, res, next) {
 exports.answers_boxPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_9)
+  * item (Item_6)
   **/
     var examples = {};
   examples['application/json'] = "";

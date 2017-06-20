@@ -110,7 +110,7 @@ exports.fos_userIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_53)
+  * item (Item_50)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -128,7 +128,7 @@ exports.fos_userIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_52)
+  * item (Item_49)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -145,7 +145,7 @@ exports.fos_userIdPUT = function(args, res, next) {
 exports.fos_userPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_51)
+  * item (Item_48)
   **/
     var examples = {};
   examples['application/json'] = "";

@@ -72,7 +72,7 @@ exports.articleIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_14)
+  * item (Item_11)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -90,7 +90,7 @@ exports.articleIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_13)
+  * item (Item_10)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -107,7 +107,7 @@ exports.articleIdPUT = function(args, res, next) {
 exports.articlePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_12)
+  * item (Item_9)
   **/
     var examples = {};
   examples['application/json'] = "";

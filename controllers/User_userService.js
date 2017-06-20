@@ -66,7 +66,7 @@ exports.user_userIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_113)
+  * item (Item_110)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -84,7 +84,7 @@ exports.user_userIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_112)
+  * item (Item_109)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -101,7 +101,7 @@ exports.user_userIdPUT = function(args, res, next) {
 exports.user_userPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_111)
+  * item (Item_108)
   **/
     var examples = {};
   examples['application/json'] = "";

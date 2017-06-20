@@ -72,7 +72,7 @@ exports.question_typeIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_86)
+  * item (Item_83)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -90,7 +90,7 @@ exports.question_typeIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_85)
+  * item (Item_82)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -107,7 +107,7 @@ exports.question_typeIdPUT = function(args, res, next) {
 exports.question_typePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_84)
+  * item (Item_81)
   **/
     var examples = {};
   examples['application/json'] = "";

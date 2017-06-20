@@ -68,7 +68,7 @@ exports.clusterIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_26)
+  * item (Item_23)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.clusterIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_25)
+  * item (Item_22)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.clusterIdPUT = function(args, res, next) {
 exports.clusterPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_24)
+  * item (Item_21)
   **/
     var examples = {};
   examples['application/json'] = "";

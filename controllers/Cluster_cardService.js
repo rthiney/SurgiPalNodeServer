@@ -68,7 +68,7 @@ exports.cluster_cardIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_29)
+  * item (Item_26)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.cluster_cardIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_28)
+  * item (Item_25)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.cluster_cardIdPUT = function(args, res, next) {
 exports.cluster_cardPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_27)
+  * item (Item_24)
   **/
     var examples = {};
   examples['application/json'] = "";

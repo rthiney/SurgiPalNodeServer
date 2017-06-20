@@ -68,7 +68,7 @@ exports.glove_sizeIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_56)
+  * item (Item_53)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.glove_sizeIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_55)
+  * item (Item_52)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.glove_sizeIdPUT = function(args, res, next) {
 exports.glove_sizePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_54)
+  * item (Item_51)
   **/
     var examples = {};
   examples['application/json'] = "";

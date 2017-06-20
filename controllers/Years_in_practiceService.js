@@ -68,7 +68,7 @@ exports.years_in_practiceIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_122)
+  * item (Item_119)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.years_in_practiceIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_121)
+  * item (Item_118)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.years_in_practiceIdPUT = function(args, res, next) {
 exports.years_in_practicePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_120)
+  * item (Item_117)
   **/
     var examples = {};
   examples['application/json'] = "";

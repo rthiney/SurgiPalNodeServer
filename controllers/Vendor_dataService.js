@@ -86,7 +86,7 @@ exports.vendor_dataIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_116)
+  * item (Item_113)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -104,7 +104,7 @@ exports.vendor_dataIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_115)
+  * item (Item_112)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -121,7 +121,7 @@ exports.vendor_dataIdPUT = function(args, res, next) {
 exports.vendor_dataPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_114)
+  * item (Item_111)
   **/
     var examples = {};
   examples['application/json'] = "";

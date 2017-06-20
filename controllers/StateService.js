@@ -68,7 +68,7 @@ exports.stateIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_95)
+  * item (Item_92)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.stateIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_94)
+  * item (Item_91)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.stateIdPUT = function(args, res, next) {
 exports.statePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_93)
+  * item (Item_90)
   **/
     var examples = {};
   examples['application/json'] = "";

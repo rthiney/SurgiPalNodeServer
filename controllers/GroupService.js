@@ -68,7 +68,7 @@ exports.groupIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_65)
+  * item (Item_62)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.groupIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_64)
+  * item (Item_61)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.groupIdPUT = function(args, res, next) {
 exports.groupPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_63)
+  * item (Item_60)
   **/
     var examples = {};
   examples['application/json'] = "";

@@ -68,7 +68,7 @@ exports.gown_sizeIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_62)
+  * item (Item_59)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.gown_sizeIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_61)
+  * item (Item_58)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.gown_sizeIdPUT = function(args, res, next) {
 exports.gown_sizePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_60)
+  * item (Item_57)
   **/
     var examples = {};
   examples['application/json'] = "";

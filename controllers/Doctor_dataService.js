@@ -132,7 +132,7 @@ exports.doctor_dataIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_38)
+  * item (Item_35)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -150,7 +150,7 @@ exports.doctor_dataIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_37)
+  * item (Item_34)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -167,7 +167,7 @@ exports.doctor_dataIdPUT = function(args, res, next) {
 exports.doctor_dataPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_36)
+  * item (Item_33)
   **/
     var examples = {};
   examples['application/json'] = "";
