@@ -7,8 +7,6 @@ info:
 host: "surgipal.com"
 basePath: "/api/api.php"
 tags:
-- name: "SystemLog"
-  description: ""
 - name: "answer"
   description: ""
 - name: "answer_suggested"
