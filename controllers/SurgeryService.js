@@ -100,7 +100,7 @@ exports.surgeryIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_101)
+  * item (Item_98)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -118,7 +118,7 @@ exports.surgeryIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_100)
+  * item (Item_97)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -135,7 +135,7 @@ exports.surgeryIdPUT = function(args, res, next) {
 exports.surgeryPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_99)
+  * item (Item_96)
   **/
     var examples = {};
   examples['application/json'] = "";

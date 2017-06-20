@@ -92,7 +92,7 @@ exports.messagesviewIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_74)
+  * item (Item_71)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -110,7 +110,7 @@ exports.messagesviewIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_73)
+  * item (Item_70)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -127,7 +127,7 @@ exports.messagesviewIdPUT = function(args, res, next) {
 exports.messagesviewPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_72)
+  * item (Item_69)
   **/
     var examples = {};
   examples['application/json'] = "";

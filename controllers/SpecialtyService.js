@@ -68,7 +68,7 @@ exports.specialtyIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_92)
+  * item (Item_89)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.specialtyIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_91)
+  * item (Item_88)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.specialtyIdPUT = function(args, res, next) {
 exports.specialtyPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_90)
+  * item (Item_87)
   **/
     var examples = {};
   examples['application/json'] = "";

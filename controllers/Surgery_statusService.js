@@ -68,7 +68,7 @@ exports.surgery_statusIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_104)
+  * item (Item_101)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.surgery_statusIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_103)
+  * item (Item_100)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.surgery_statusIdPUT = function(args, res, next) {
 exports.surgery_statusPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_102)
+  * item (Item_99)
   **/
     var examples = {};
   examples['application/json'] = "";

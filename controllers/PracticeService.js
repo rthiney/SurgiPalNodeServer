@@ -84,7 +84,7 @@ exports.practiceIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_77)
+  * item (Item_74)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -102,7 +102,7 @@ exports.practiceIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_76)
+  * item (Item_73)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -119,7 +119,7 @@ exports.practiceIdPUT = function(args, res, next) {
 exports.practicePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_75)
+  * item (Item_72)
   **/
     var examples = {};
   examples['application/json'] = "";

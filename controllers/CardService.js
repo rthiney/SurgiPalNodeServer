@@ -74,7 +74,7 @@ exports.cardIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_20)
+  * item (Item_17)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -92,7 +92,7 @@ exports.cardIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_19)
+  * item (Item_16)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -109,7 +109,7 @@ exports.cardIdPUT = function(args, res, next) {
 exports.cardPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_18)
+  * item (Item_15)
   **/
     var examples = {};
   examples['application/json'] = "";

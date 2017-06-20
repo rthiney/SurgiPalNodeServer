@@ -74,7 +74,7 @@ exports.contact_messageIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_32)
+  * item (Item_29)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -92,7 +92,7 @@ exports.contact_messageIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_31)
+  * item (Item_28)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -109,7 +109,7 @@ exports.contact_messageIdPUT = function(args, res, next) {
 exports.contact_messagePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_30)
+  * item (Item_27)
   **/
     var examples = {};
   examples['application/json'] = "";

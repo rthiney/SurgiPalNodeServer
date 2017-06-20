@@ -68,7 +68,7 @@ exports.doctor_hospitalIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_41)
+  * item (Item_38)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.doctor_hospitalIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_40)
+  * item (Item_37)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.doctor_hospitalIdPUT = function(args, res, next) {
 exports.doctor_hospitalPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_39)
+  * item (Item_36)
   **/
     var examples = {};
   examples['application/json'] = "";

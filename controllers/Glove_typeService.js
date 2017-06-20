@@ -68,7 +68,7 @@ exports.glove_typeIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_59)
+  * item (Item_56)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.glove_typeIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_58)
+  * item (Item_55)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.glove_typeIdPUT = function(args, res, next) {
 exports.glove_typePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_57)
+  * item (Item_54)
   **/
     var examples = {};
   examples['application/json'] = "";

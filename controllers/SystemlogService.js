@@ -72,7 +72,7 @@ exports.systemlogIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_110)
+  * item (Item_107)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -90,7 +90,7 @@ exports.systemlogIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_109)
+  * item (Item_106)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -107,7 +107,7 @@ exports.systemlogIdPUT = function(args, res, next) {
 exports.systemlogPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_108)
+  * item (Item_105)
   **/
     var examples = {};
   examples['application/json'] = "";

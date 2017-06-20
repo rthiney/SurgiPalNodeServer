@@ -84,7 +84,7 @@ exports.questionIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_83)
+  * item (Item_80)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -102,7 +102,7 @@ exports.questionIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_82)
+  * item (Item_79)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -119,7 +119,7 @@ exports.questionIdPUT = function(args, res, next) {
 exports.questionPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_81)
+  * item (Item_78)
   **/
     var examples = {};
   examples['application/json'] = "";

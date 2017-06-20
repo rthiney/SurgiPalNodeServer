@@ -68,7 +68,7 @@ exports.handednessIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_68)
+  * item (Item_65)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.handednessIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_67)
+  * item (Item_64)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.handednessIdPUT = function(args, res, next) {
 exports.handednessPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_66)
+  * item (Item_63)
   **/
     var examples = {};
   examples['application/json'] = "";

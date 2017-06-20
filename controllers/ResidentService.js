@@ -68,7 +68,7 @@ exports.residentIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_89)
+  * item (Item_86)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.residentIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_88)
+  * item (Item_85)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.residentIdPUT = function(args, res, next) {
 exports.residentPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_87)
+  * item (Item_84)
   **/
     var examples = {};
   examples['application/json'] = "";

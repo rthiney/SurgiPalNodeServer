@@ -78,7 +78,7 @@ exports.answer_suggestedIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_8)
+  * item (Item_5)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -96,7 +96,7 @@ exports.answer_suggestedIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_7)
+  * item (Item_4)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -113,7 +113,7 @@ exports.answer_suggestedIdPUT = function(args, res, next) {
 exports.answer_suggestedPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_6)
+  * item (Item_3)
   **/
     var examples = {};
   examples['application/json'] = "";

@@ -68,7 +68,7 @@ exports.countryIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_35)
+  * item (Item_32)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.countryIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_34)
+  * item (Item_31)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.countryIdPUT = function(args, res, next) {
 exports.countryPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_33)
+  * item (Item_30)
   **/
     var examples = {};
   examples['application/json'] = "";

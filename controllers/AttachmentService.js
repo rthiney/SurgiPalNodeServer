@@ -72,7 +72,7 @@ exports.attachmentIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_17)
+  * item (Item_14)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -90,7 +90,7 @@ exports.attachmentIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_16)
+  * item (Item_13)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -107,7 +107,7 @@ exports.attachmentIdPUT = function(args, res, next) {
 exports.attachmentPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_15)
+  * item (Item_12)
   **/
     var examples = {};
   examples['application/json'] = "";

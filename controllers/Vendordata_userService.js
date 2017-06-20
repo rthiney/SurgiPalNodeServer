@@ -68,7 +68,7 @@ exports.vendordata_userIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_119)
+  * item (Item_116)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -86,7 +86,7 @@ exports.vendordata_userIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_118)
+  * item (Item_115)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -103,7 +103,7 @@ exports.vendordata_userIdPUT = function(args, res, next) {
 exports.vendordata_userPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_117)
+  * item (Item_114)
   **/
     var examples = {};
   examples['application/json'] = "";

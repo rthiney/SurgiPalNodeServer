@@ -70,7 +70,7 @@ exports.categoryIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_23)
+  * item (Item_20)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -88,7 +88,7 @@ exports.categoryIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_22)
+  * item (Item_19)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -105,7 +105,7 @@ exports.categoryIdPUT = function(args, res, next) {
 exports.categoryPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_21)
+  * item (Item_18)
   **/
     var examples = {};
   examples['application/json'] = "";

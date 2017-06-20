@@ -70,7 +70,7 @@ exports.exclusionerIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_50)
+  * item (Item_47)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -88,7 +88,7 @@ exports.exclusionerIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_49)
+  * item (Item_46)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -105,7 +105,7 @@ exports.exclusionerIdPUT = function(args, res, next) {
 exports.exclusionerPOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_48)
+  * item (Item_45)
   **/
     var examples = {};
   examples['application/json'] = "";

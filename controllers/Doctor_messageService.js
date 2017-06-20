@@ -78,7 +78,7 @@ exports.doctor_messageIdPATCH = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_44)
+  * item (Item_41)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -96,7 +96,7 @@ exports.doctor_messageIdPUT = function(args, res, next) {
   /**
    * parameters expected in the args:
   * id (String)
-  * item (Item_43)
+  * item (Item_40)
   **/
     var examples = {};
   examples['application/json'] = "";
@@ -113,7 +113,7 @@ exports.doctor_messageIdPUT = function(args, res, next) {
 exports.doctor_messagePOST = function(args, res, next) {
   /**
    * parameters expected in the args:
-  * item (Item_42)
+  * item (Item_39)
   **/
     var examples = {};
   examples['application/json'] = "";
