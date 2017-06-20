@@ -6776,7 +6776,7 @@ paths:
           $ref: "#/definitions/item_121"
       responses:
         200:
-          description: "Number of affected rows."
+          description: "Numbsser of affected rows."
           schema:
             type: "integer"
       x-swagger-router-controller: "Years_in_practice"
